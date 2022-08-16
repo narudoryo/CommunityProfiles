@@ -192,7 +192,7 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#FF5D5D5D",
+      "TextColor": "#FFBABABA",
       "HoveredTextColor": "#FFFFFFFF",
       "ClickedTextColor": "#FFFFFFFF"
     },
@@ -237,9 +237,9 @@
       "ClickedImagePath": null,
       "FontFamily": "Segoe MDL2 Assets",
       "Text": "",
-      "TextColor": "#FF696969",
+      "TextColor": "#FFBABABA",
       "HoveredTextColor": "#FFFFFFFF",
-      "ClickedTextColor": "#FF808080"
+      "ClickedTextColor": "#FFFFFFFF"
     },
     "ShuffleOnContent": {
       "ContentType": 1,
